@@ -1,0 +1,12 @@
+
+#virtuales e IDEs
+venv/
+__pycache__/
+.vscode/
+.idea/
+
+# Compilados y binarios
+*.o
+*.pyc
+build/
+dist/
